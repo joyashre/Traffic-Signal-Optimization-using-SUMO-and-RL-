@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2026-05-23T15:54:30.024326+05:30 by Eclipse SUMO sumo 1.26.0
+<sumoConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="osm.net.xml.gz"/>
+        <route-files value="full_map_traffic.rou.xml"/>
+        <additional-files value="osm.poly.xml.gz, vehicles.add.xml"/>
+    </input>
+
+    <output>
+        <summary-output value="with_rl_summary.xml"/>
+        <tripinfo-output value="with_rl_tripinfo.xml"/>
+        <statistic-output value="stats.xml"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="3600"/>
+    </time>
+
+    <processing>
+        <ignore-route-errors value="true"/>
+        <tls.actuated.jam-threshold value="30"/>
+    </processing>
+
+    <routing>
+        <device.rerouting.adaptation-steps value="18"/>
+        <device.rerouting.adaptation-interval value="10"/>
+    </routing>
+
+    <report>
+        <verbose value="true"/>
+        <duration-log.statistics value="true"/>
+        <no-step-log value="true"/>
+    </report>
+
+    <emissions>
+        <device.emissions.probability value="1.0"/>
+    </emissions>
+
+    <traci_server>
+        <remote-port value="55196"/>
+    </traci_server>
+
+    <gui_only>
+        <gui-settings-file value="osm.view.xml"/>
+    </gui_only>
+
+</sumoConfiguration>
+-->
+
+<summary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/summary_file.xsd">
+    <step time="0.00" loaded="2" inserted="1" running="1" waiting="0" ended="0" arrived="0" collisions="0" teleports="0" halting="1" stopped="0" meanWaitingTime="0.00" meanTravelTime="-1.00" meanSpeed="0.00" meanSpeedRelative="0.00" discarded="0" duration="4"/>
+    <step time="1.00" loaded="479" inserted="3" running="3" waiting="0" ended="0" arrived="0" collisions="0" teleports="0" halting="2" stopped="0" meanWaitingTime="0.67" meanTravelTime="-1.00" meanSpeed="0.38" meanSpeedRelative="0.03" discarded="0" duration="80"/>
+    <step time="2.00" loaded="479" inserted="5" running="5" waiting="0" ended="0" arrived="0" collisions="0" teleports="0" halting="2" stopped="0" meanWaitingTime="0.80" meanTravelTime="-1.00" meanSpeed="1.15" meanSpeedRelative="0.08" discarded="0" duration="26"/>
+    <step time="3.00" loaded="479" inserted="8" running="8" waiting="0" ended="0" arrived="0" collisions="0" teleports="0" halting="3" stopped="0" meanWaitingTime="0.88" meanTravelTime="-1.00" meanSpeed="1.74" meanSpeedRelative="0.11" discarded="0" duration="4"/>
+    <step time="4.00" loaded="479" inserted="10" running="10" waiting="0" ended="0" arrived="0" collisions="0" teleports="0" halting="2" stopped="0" meanWaitingTime="0.90" meanTravelTime="-1.00" meanSpeed="2.77" meanSpeedRelative="0.18" discarded="0" duration="1"/>
+    <step time="5.00" loaded="479" inserted="12" running="12" waiting="0" ended="0" arrived="0" collisions="0" teleports="0" halting="2" stopped="0" meanWaitingTime="0.92" meanTravelTime="-1.00" meanSpeed="3.92" meanSpeedRelative="0.25" discarded="0" duration="1"/>
+    <step time="6.00" loaded="479" inserted="15" running="15" waiting="0" ended="0" arrived="0" collisions="0" teleports="0" halting="3" stopped="0" meanWaitingTime="0.93" meanTravelTime="-1.00" meanSpeed="4.66" meanSpeedRelative="0.30" discarded="0" duration="1"/>
+    <step time="7.00" loaded="479" inserted="16" running="16" waiting="1" ended="0" arrived="0" collisions="0" teleports="0" halting="1" stopped="0" meanWaitingTime="0.94" meanTravelTime="-1.00" meanSpeed="5.93" meanSpeedRelative="0.39" discarded="0" duration="1"/>
+    <step time="8.00" loaded="479" inserted="20" running="20" waiting="0" ended="0" arrived="0" collisions="0" teleports="0" halting="4" stopped="0" meanWaitingTime="1.00" meanTravelTime="-1.00" meanSpeed="5.41" meanSpeedRelative="0.36" discarded="0" duration="0"/>
+    <step time="9.00" loaded="479" inserted="22" running="22" waiting="0" ended="0" arrived="0" collisions="0" teleports="0" halting="2" stopped="0" meanWaitingTime="1.00" meanTravelTime="-1.00" meanSpeed="5.72" meanSpeedRelative="0.38" discarded="0" duration="0"/>
+</summary>
