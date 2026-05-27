@@ -1,0 +1,17 @@
+<additional>
+    <vTypeDistribution id="mixedTraffic">
+        
+        <vType id="car_red" vClass="passenger" color="220,20,60" probability="0.15" guiShape="passenger"/>
+        <vType id="car_silver" vClass="passenger" color="192,192,192" probability="0.15" guiShape="passenger"/>
+        <vType id="car_blue" vClass="passenger" color="0,100,255" probability="0.10" guiShape="passenger"/>
+
+        <vType id="bike" vClass="motorcycle" color="255,140,0" probability="0.25" guiShape="motorcycle"/>
+
+        <vType id="auto" vClass="passenger" color="255,204,0" probability="0.15" guiShape="rickshaw" length="2.8" width="1.4"/>
+
+        <vType id="bus" vClass="bus" color="0,200,255" probability="0.15" guiShape="bus" length="10.5"/>
+
+        <vType id="ambulance" vClass="emergency" color="255,255,255" probability="0.05" guiShape="emergency" speedFactor="1.5"/>
+        
+    </vTypeDistribution>
+</additional>
