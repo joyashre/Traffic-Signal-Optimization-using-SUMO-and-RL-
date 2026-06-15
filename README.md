@@ -56,14 +56,11 @@ An extreme congestion stress test on a highly asymmetric, severely bottlenecked 
   <img width="1920" height="1080" alt="Screenshot (115)" src="https://github.com/user-attachments/assets/9f1374bc-ae41-45b6-9808-b6c8145af863" />
 
 
-## 🎥 Simulation Demo
+## 🎥 Result Graph
 
-*(Add your SUMO simulation video links or GIFs here)*
+Sony world Junction- <img width="2578" height="1737" alt="Compare_Waiting_Time" src="https://github.com/user-attachments/assets/5398423b-b6a9-48be-b74c-c8f467fb27b1" />
+Kfc Junction- <img width="1500" height="1000" alt="FINAL_THESIS_COMPARISON" src="https://github.com/user-attachments/assets/4e670651-2ea7-4c21-a6b0-aed6a9f20ec2" />
 
-
-- [Watch KFC Junction AI Simulation (With RL vs Without RL)] https://github.com/user-attachments/assets/28624ac7-9cb9-4f71-aebf-de055b09c2b9
-
-- [Watch Sony World Junction Extreme Congestion Solving](link_to_your_video_or_gif_here)
 
 ## 🛠️ Tech Stack & Requirements
 * **Python 3.8+**
