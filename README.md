@@ -43,12 +43,18 @@ A standard urban intersection with moderate cross-traffic density.
 * **Overall Waiting Time Drop:** 18.8% reduction
 * **Ambulance Delay Reduction:** 38.1% faster clearance
 
+  <img width="1920" height="1080" alt="Screenshot (116)" src="https://github.com/user-attachments/assets/3432b088-8294-4f80-b6e9-ded01312924a" />
+
+
 ### Case Study 2: Koramangala (Sony World Junction)
 An extreme congestion stress test on a highly asymmetric, severely bottlenecked network.
 * **Queue Length MSE Reduction:** 70.5% drop
 * **Overall Waiting Time:** 77.4% reduction (Dropped from 789s to 177s)
 * **Ambulance Clearance:** 57.3% faster response
 * **CO2 Emissions:** 85.5% reduction (Dropped from 2760 kg to just 398 kg)
+
+  <img width="1920" height="1080" alt="Screenshot (115)" src="https://github.com/user-attachments/assets/9f1374bc-ae41-45b6-9808-b6c8145af863" />
+
 
 ## 🎥 Simulation Demo
 
