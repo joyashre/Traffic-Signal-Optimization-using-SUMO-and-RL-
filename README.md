@@ -58,8 +58,8 @@ An extreme congestion stress test on a highly asymmetric, severely bottlenecked 
 
 ## 🎥 Result Graph
 
-Sony world Junction- <img width="2578" height="1737" alt="Compare_Waiting_Time" src="https://github.com/user-attachments/assets/5398423b-b6a9-48be-b74c-c8f467fb27b1" />
-Kfc Junction- <img width="1500" height="1000" alt="FINAL_THESIS_COMPARISON" src="https://github.com/user-attachments/assets/4e670651-2ea7-4c21-a6b0-aed6a9f20ec2" />
+Sony world Junction- <img width="1000" height="500" alt="Compare_Waiting_Time" src="https://github.com/user-attachments/assets/5398423b-b6a9-48be-b74c-c8f467fb27b1" />
+Kfc Junction- <img width="1000" height="500" alt="FINAL_THESIS_COMPARISON" src="https://github.com/user-attachments/assets/4e670651-2ea7-4c21-a6b0-aed6a9f20ec2" />
 
 
 ## 🛠️ Tech Stack & Requirements
