@@ -13,6 +13,12 @@ Rapid urbanization in cities like Bangalore leads to severe traffic congestion, 
 
 This project introduces a **Deep Reinforcement Learning (DRL)** approach using the **Proximal Policy Optimization (PPO)** algorithm to dynamically control traffic signal phases. Validated via the **Eclipse SUMO** microscopic simulator, the AI agent optimizes traffic flow, prioritizes emergency vehicles (ambulances), and minimizes environmental impact (CO2 & PM2.5 emissions).
 
+
+
+https://github.com/user-attachments/assets/21dfda2d-8ea9-4cbb-b30d-53699c61283d
+
+
+
 ## ✨ Key Features
 - **🧠 Advanced AI Agent (PPO):** Utilizes Stable Baselines3's PPO algorithm over traditional DQN to prevent "Catastrophic Forgetting" and ensure stable, monotonic policy improvements via Trust Region clipping.
 - **🚑 Emergency Preemption:** Strict algorithmic priority for ambulances, ensuring rapid clearance without causing network-wide gridlocks.
@@ -46,7 +52,9 @@ An extreme congestion stress test on a highly asymmetric, severely bottlenecked 
 
 *(Add your SUMO simulation video links or GIFs here)*
 
-- [Watch KFC Junction AI Simulation (With RL vs Without RL)](https://github.com/joyashre/Traffic-Signal-Optimization-using-SUMO-and-RL-/blob/main/bangalore%20kfc%20junction/KFC%20junction%20video%20(online-video-cutter.com).mp4)
+
+- [Watch KFC Junction AI Simulation (With RL vs Without RL)] https://github.com/user-attachments/assets/28624ac7-9cb9-4f71-aebf-de055b09c2b9
+
 - [Watch Sony World Junction Extreme Congestion Solving](link_to_your_video_or_gif_here)
 
 ## 🛠️ Tech Stack & Requirements
