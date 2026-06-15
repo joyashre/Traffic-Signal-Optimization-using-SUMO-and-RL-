@@ -46,7 +46,7 @@ An extreme congestion stress test on a highly asymmetric, severely bottlenecked 
 
 *(Add your SUMO simulation video links or GIFs here)*
 
-- [Watch KFC Junction AI Simulation (With RL vs Without RL)](link_to_your_video_or_gif_here)
+- [Watch KFC Junction AI Simulation (With RL vs Without RL)]([link_to_your_video_or_gif_here](https://github.com/joyashre/Traffic-Signal-Optimization-using-SUMO-and-RL-/blob/main/bangalore%20kfc%20junction/KFC%20junction%20video%20(online-video-cutter.com).mp4))
 - [Watch Sony World Junction Extreme Congestion Solving](link_to_your_video_or_gif_here)
 
 ## 🛠️ Tech Stack & Requirements
